@@ -13,7 +13,7 @@ In general, programming attracts a sense of creation: as a result of writing lin
 ### Skills:
 **Programming.** In terms of programming, something is about zero. I can roughly imagine the basics of what loops and arrays are. What is and why HTML and css are needed. But the knowledge is very superficial.  
 
-**English.** Knowledge of English: I read and write with a Google translator =)
+**Language.** Knowledge of English: I read and write with a Google translator =)
 
 ### Contacts:
 Discord: [4harry.hippo(@4harry)](https://discordapp.com/users/1048710990826569738/)  

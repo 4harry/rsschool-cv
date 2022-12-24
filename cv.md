@@ -11,9 +11,9 @@ Why did I decide to enroll in the RS school course:
 In general, programming attracts a sense of creation: as a result of writing lines, working code appears. And depending on the developer's idea, this code can simplify people's lives. Isn't that wonderful?)
 
 ### Skills:
-**Programming.** In terms of programming, something is about zero. I can roughly imagine the basics of what loops and arrays are. What is and why HTML and css are needed. But the knowledge is very superficial.  
+**Programming.** In terms of programming, something is about zero. I can roughly imagine the basics of what loops and arrays are. What is and why HTML and css are needed. But the knowledge is very superficial.    
 
-**Language.** Knowledge of English: I read and write with a Google translator =)
+**English.** Knowledge of English: I read and write with a Google translator =)
 
 ### Contacts:
 Discord: [4harry.hippo(@4harry)](https://discordapp.com/users/1048710990826569738/)  
